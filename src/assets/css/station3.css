@@ -4,6 +4,7 @@
  }
  .card{
    padding: 8px;
+   background-color: #fff;
  }
  .card__title{
    color: #282828;
