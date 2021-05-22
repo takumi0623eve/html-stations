@@ -2,7 +2,9 @@
  body{
    background-color: #fff;
  }
-
+ .card{
+   padding: 8px;
+ }
  .card-title{
    color: #282828;
    font-size: 14px;
