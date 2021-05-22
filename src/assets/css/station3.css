@@ -5,12 +5,12 @@
  .card{
    padding: 8px;
  }
- .card-title{
+ .card__title{
    color: #282828;
    font-size: 14px;
  }
 
- .card-description{
+ .card__description{
    color: #282828;
    font-size: 12px;
  }
